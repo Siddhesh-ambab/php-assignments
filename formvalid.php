@@ -8,8 +8,6 @@ h4 {color: red;}
 </head>  
 <body>    
   <?php 
-	$fnameErr = $lnameErr = $emailErr = $passErr = "";
-	$fname = $lname = $email = $pass = "";
 
 	if ($_SERVER['REQUEST_METHOD'] == "POST") {
 		if (empty($_POST['fname'])) {
