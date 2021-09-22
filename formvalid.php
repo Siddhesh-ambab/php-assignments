@@ -113,6 +113,6 @@ h4 {color: red;}
 			 echo "<h4> <b>You didn't filled up the form correctly.</b> </h4>"; 
 		}
 	}
-?> 
+?>
 </body>  
 </html> 
