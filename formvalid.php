@@ -1,7 +1,7 @@
 <html>  
 <head>  
 <style>  
-.error {color: #red;} 
+.error {color: red;} 
 h3 {color: green;}
 h4 {color: red;} 
 </style>  
